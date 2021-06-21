@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-21T16:36:01.809Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="02BVIairUROlo5WrhYMZ" version="14.8.0" type="github">
+<mxfile modified="2021-06-21T17:05:14.120Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JwlWL9KqktEVXhyxmtDv" version="14.8.0" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="1325" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,19 +11,73 @@
           <mxGeometry x="80" y="225" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F0tAwCprdeMeKg854cfs-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/proxmox-128.png" vertex="1" parent="1">
-          <mxGeometry x="395.75" y="42" width="104" height="104" as="geometry" />
+          <mxGeometry x="570" y="52" width="104" height="104" as="geometry" />
         </mxCell>
         <mxCell id="F0tAwCprdeMeKg854cfs-3" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.stratuscloud.co.za/wp-content/uploads/2020/11/pfsense.png" vertex="1" parent="1">
-          <mxGeometry x="404.24" y="207" width="95.51" height="90" as="geometry" />
+          <mxGeometry x="578.49" y="217" width="95.51" height="90" as="geometry" />
         </mxCell>
         <mxCell id="F0tAwCprdeMeKg854cfs-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png" vertex="1" parent="1">
-          <mxGeometry x="398.75" y="340" width="98" height="98" as="geometry" />
+          <mxGeometry x="578.49" y="450" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="F0tAwCprdeMeKg854cfs-5" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/0/00/Pi-hole_Logo.png" vertex="1" parent="1">
-          <mxGeometry x="610" y="306" width="125.55" height="132" as="geometry" />
+          <mxGeometry x="868.74" y="450" width="105.75" height="98" as="geometry" />
         </mxCell>
         <mxCell id="F0tAwCprdeMeKg854cfs-7" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=data:image/png,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" vertex="1" parent="1">
-          <mxGeometry x="620" y="202.5" width="99" height="99" as="geometry" />
+          <mxGeometry x="871" y="225" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-8" value="Hyper-Visor&lt;br&gt;Proxmox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="661.88" y="79" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-9" value="Firewall&lt;br&gt;PFSense" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="674" y="232.5" width="85.75" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-10" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="239.5" width="74.4" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-11" value="Vlan Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="244.39999999999998" y="297" width="65.6" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-12" value="File Share&lt;br&gt;Open Media Vault" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="228.25" width="100" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-13" value="Automation Server&lt;br&gt;Jenkins" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="676.49" y="470" width="120" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-14" value="DNS Server&lt;br&gt;Pi-Hole" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="974.49" y="489" width="111" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="19" width="660" height="561" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-19" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="660" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;Virtual Machines&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-21" value="Home Router" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="316.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-22" value="LXC Containers" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-24" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="F0tAwCprdeMeKg854cfs-1" target="8--HhbSZYtI3ddgJnD71-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="206" as="sourcePoint" />
+            <mxPoint x="120" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-25" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="F0tAwCprdeMeKg854cfs-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="430" y="228.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0tAwCprdeMeKg854cfs-26" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="F0tAwCprdeMeKg854cfs-1" target="F0tAwCprdeMeKg854cfs-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="330" as="sourcePoint" />
+            <mxPoint x="200" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
